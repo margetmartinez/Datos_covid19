@@ -7,4 +7,4 @@ Una vez visualizado el contenido de los datos se procedió a arreglar detalles c
 
 - Los datos fueron tomados de: <https://oges.ministeriodesalud.go.cr/>
 
-[Enlace del nbviewer](https://nbviewer.org/github/LuisGomez02/Tarea_02/blob/main/Trabajo_practico_2.ipynb)
+[Enlace del nbviewer](https://nbviewer.org/github/margetmartinez/Datos_covid19/blob/main/Practica2.ipynb)
